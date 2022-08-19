@@ -1,2 +1,4 @@
-# ToDo-list-prompt
-ToDo list via prompt and console 
+# ToDo list
+via prompt and console 
+
+![](ezgif.com-gif-maker(1).gif)
