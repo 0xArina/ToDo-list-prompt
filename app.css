@@ -1,0 +1,15 @@
+body {
+    font-family: 'Roboto', sans-serif;
+    background-color: rgb(48, 48, 48);
+    color: chartreuse;
+    display: flex;
+    flex-wrap: nowrap;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+
+
+li span {
+    font-weight: bold;
+}
